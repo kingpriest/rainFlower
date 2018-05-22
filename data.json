@@ -1,0 +1,1380 @@
+{
+  "seller": {
+    "name": "雨航花坊",
+    "description": "蜂鸟专送",
+    "distance": 3.1,
+    "deliveryTime": 38,
+    "score": 4.5,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "雨航花坊自2000年成立以来,一直秉承把美丽、品味、高雅的成品鲜花奉献给每一位客户，花坊不断创新,始终把自己的创意作品推向时尚的风口浪尖。",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满28减5"
+      },
+      {
+        "type": 1,
+        "description": "鲜花A全场8折"
+      },
+      {
+        "type": 2,
+        "description": "单人精彩套餐"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "bground": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526710459&di=7eacf1dfe4dc1b468a0d2bee53a66eb1&imgtype=jpg&er=1&src=http%3A%2F%2Flib.huitu.com%2FSpace%2F20150120%2F20150120213010459-headbg-656378.jpg%3F1332681434",
+    "avatar": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526712035&di=403e93577ce339ce81de2dd9d30d520c&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn01.pinkoi.com%2Fproduct%2Fif9CUCRH%2F0%2F500x0.jpg",
+    "pics": [
+      "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类:成品鲜花",
+      "上海静安静安陕西北路549（新闸路口）",
+      "营业时间:10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "鲜花组合A",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花A",
+          "price": 10,
+          "oldPrice": "",
+          "description": "鲜花A",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A鲜花A",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "真不错哟",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526670784429&di=dfa172a8befe860fc6d755493ba79f79&imgtype=0&src=http%3A%2F%2Fwww.lehuozaixian.com%2Fuserfiles%2Fimage%2F20180510%2F1009011375d9d4f6d14274.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526670784429&di=dfa172a8befe860fc6d755493ba79f79&imgtype=0&src=http%3A%2F%2Fwww.lehuozaixian.com%2Fuserfiles%2Fimage%2F20180510%2F1009011375d9d4f6d14274.jpg"
+        },
+        {
+          "name": "鲜花B",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265604&di=70481df8ea6d5abfe566a29df3d85ffa&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn02.pinkoi.com%2Fproduct%2F1P1sUtyC%2F0%2F500x0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265604&di=70481df8ea6d5abfe566a29df3d85ffa&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn02.pinkoi.com%2Fproduct%2F1P1sUtyC%2F0%2F500x0.jpg"
+        },
+        {
+          "name": "鲜花C",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265700&di=a45822153cf2292868ba36bc94af90fe&imgtype=jpg&er=1&src=http%3A%2F%2Fclubfiles.libaclub.com%2F2014%2F09%2F13%2F11%2F40366794.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265700&di=a45822153cf2292868ba36bc94af90fe&imgtype=jpg&er=1&src=http%3A%2F%2Fclubfiles.libaclub.com%2F2014%2F09%2F13%2F11%2F40366794.jpg"
+        },
+        {
+          "name": "鲜花D",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不好看啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671097251&di=bacd4f3a94b82373b0409d95299cf918&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Flarge%2Fpublic%2Fp117910645.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671097251&di=bacd4f3a94b82373b0409d95299cf918&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Flarge%2Fpublic%2Fp117910645.jpg"
+        },
+        {
+          "name": "鲜花E",
+          "price": 17,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671264158&di=6cc70f4b4fa2fabe09df13bdbcaaab76&imgtype=0&src=http%3A%2F%2Fimage.yuanlin.com%2Fyuanyi%2F2017%2F4%2Fdc822150-7cb3-41b3-b090-e53b9b0d7231.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671264158&di=6cc70f4b4fa2fabe09df13bdbcaaab76&imgtype=0&src=http%3A%2F%2Fimage.yuanlin.com%2Fyuanyi%2F2017%2F4%2Fdc822150-7cb3-41b3-b090-e53b9b0d7231.jpg"
+        },
+        {
+          "name": "鲜花F",
+          "price": 9,
+          "oldPrice": "",
+          "description": "鲜花F",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671391414&di=ef90117f9ebf95faee2682754bec8b8a&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3660375143%2C3361284463%26fm%3D214%26gp%3D0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671391414&di=ef90117f9ebf95faee2682754bec8b8a&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3660375143%2C3361284463%26fm%3D214%26gp%3D0.jpg"
+        },
+        {
+          "name": "鲜花G",
+          "price": 12,
+          "oldPrice": "",
+          "description": "鲜花G",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671442081&di=7de5fa3114e9f5609e16172fc80cc40f&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F104%2F192%2F1833%2F119239889.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671442081&di=7de5fa3114e9f5609e16172fc80cc40f&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F104%2F192%2F1833%2F119239889.jpg"
+        },
+        {
+          "name": "鲜花H",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg"
+        },
+        {
+          "name": "鲜花I",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671525358&di=b3a71670b9bfc0c3726334cc6be38ab1&imgtype=0&src=http%3A%2F%2Fcdn01.pinkoi.com%2Fproduct%2FizkByDpX%2F0%2F500x0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671525358&di=b3a71670b9bfc0c3726334cc6be38ab1&imgtype=0&src=http%3A%2F%2Fcdn01.pinkoi.com%2Fproduct%2FizkByDpX%2F0%2F500x0.jpg"
+        },
+        {
+          "name": "鲜花J",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527266413&di=bd1e850783a339a9cb32841aa7540208&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.zjolcdn.com%2Fpic%2F0%2F15%2F75%2F13%2F15751345_867370.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527266413&di=bd1e850783a339a9cb32841aa7540208&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.zjolcdn.com%2Fpic%2F0%2F15%2F75%2F13%2F15751345_867370.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合B",
+      "type": 2,
+      "foods": [
+        {
+          "name": "鲜花K",
+          "price": 29,
+          "oldPrice": 36,
+          "description": "鲜花K鲜花K鲜花K鲜花K鲜花K鲜花K鲜花K鲜花K鲜花K",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751330_982555.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751330_982555.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合C",
+      "type": 1,
+      "foods": [
+        {
+          "name": "鲜花L",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751328_239783.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751328_239783.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合D",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花M",
+          "price": 17,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "真香",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751331_374386.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751331_374386.jpg"
+        },
+        {
+          "name": "鲜花N",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751333_998966.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751333_998966.jpg"
+        },
+        {
+          "name": "鲜花O",
+          "price": 11,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751333_998966.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751333_998966.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合E",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花H",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg"
+        },
+        {
+          "name": "鲜花P",
+          "price": 9,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751334_501496.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751334_501496.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合F",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花套餐A",
+          "price": 37,
+          "oldPrice": "",
+          "description": "鲜花A,鲜花E,鲜花D",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751337_618569.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751337_618569.jpg"
+        },
+        {
+          "name": "鲜花套餐B",
+          "price": 31,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751338_326954.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751338_326954.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合G",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花Q",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751339_971878.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751339_971878.jpg"
+        },
+        {
+          "name": "鲜花R",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751340_723261.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751340_723261.jpg"
+        },
+        {
+          "name": "鲜花L",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751328_239783.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751328_239783.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合H",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花B",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265604&di=70481df8ea6d5abfe566a29df3d85ffa&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn02.pinkoi.com%2Fproduct%2F1P1sUtyC%2F0%2F500x0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265604&di=70481df8ea6d5abfe566a29df3d85ffa&imgtype=jpg&er=1&src=http%3A%2F%2Fcdn02.pinkoi.com%2Fproduct%2F1P1sUtyC%2F0%2F500x0.jpg"
+        },
+        {
+          "name": "鲜花C",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265700&di=a45822153cf2292868ba36bc94af90fe&imgtype=jpg&er=1&src=http%3A%2F%2Fclubfiles.libaclub.com%2F2014%2F09%2F13%2F11%2F40366794.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527265700&di=a45822153cf2292868ba36bc94af90fe&imgtype=jpg&er=1&src=http%3A%2F%2Fclubfiles.libaclub.com%2F2014%2F09%2F13%2F11%2F40366794.jpg"
+        },
+        {
+          "name": "鲜花D",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671097251&di=bacd4f3a94b82373b0409d95299cf918&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Flarge%2Fpublic%2Fp117910645.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671097251&di=bacd4f3a94b82373b0409d95299cf918&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Flarge%2Fpublic%2Fp117910645.jpg"
+        },
+        {
+          "name": "鲜花E",
+          "price": 17,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671264158&di=6cc70f4b4fa2fabe09df13bdbcaaab76&imgtype=0&src=http%3A%2F%2Fimage.yuanlin.com%2Fyuanyi%2F2017%2F4%2Fdc822150-7cb3-41b3-b090-e53b9b0d7231.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671264158&di=6cc70f4b4fa2fabe09df13bdbcaaab76&imgtype=0&src=http%3A%2F%2Fimage.yuanlin.com%2Fyuanyi%2F2017%2F4%2Fdc822150-7cb3-41b3-b090-e53b9b0d7231.jpg"
+        },
+        {
+          "name": "鲜花J",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527266413&di=bd1e850783a339a9cb32841aa7540208&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.zjolcdn.com%2Fpic%2F0%2F15%2F75%2F13%2F15751345_867370.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527266413&di=bd1e850783a339a9cb32841aa7540208&imgtype=jpg&er=1&src=http%3A%2F%2Fimg2.zjolcdn.com%2Fpic%2F0%2F15%2F75%2F13%2F15751345_867370.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鲜花组合I",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜花A",
+          "price": 10,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的粥",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526670784429&di=dfa172a8befe860fc6d755493ba79f79&imgtype=0&src=http%3A%2F%2Fwww.lehuozaixian.com%2Fuserfiles%2Fimage%2F20180510%2F1009011375d9d4f6d14274.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526670784429&di=dfa172a8befe860fc6d755493ba79f79&imgtype=0&src=http%3A%2F%2Fwww.lehuozaixian.com%2Fuserfiles%2Fimage%2F20180510%2F1009011375d9d4f6d14274.jpg"
+        },
+        {
+          "name": "鲜花F",
+          "price": 9,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671391414&di=ef90117f9ebf95faee2682754bec8b8a&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3660375143%2C3361284463%26fm%3D214%26gp%3D0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671391414&di=ef90117f9ebf95faee2682754bec8b8a&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D3660375143%2C3361284463%26fm%3D214%26gp%3D0.jpg"
+        },
+        {
+          "name": "鲜花G",
+          "price": 12,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671442081&di=7de5fa3114e9f5609e16172fc80cc40f&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F104%2F192%2F1833%2F119239889.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671442081&di=7de5fa3114e9f5609e16172fc80cc40f&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F104%2F192%2F1833%2F119239889.jpg"
+        },
+        {
+          "name": "鲜花H",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526671477180&di=a3dd3d4cb471453e660fd05901de74d1&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F191%2F195%2F1833%2F119240741.jpg"
+        },
+        {
+          "name": "鲜花S",
+          "price": 11,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751341_190318.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751341_190318.jpg"
+        },
+        {
+          "name": "鲜花T",
+          "price": 10,
+          "oldPrice": "",
+          "description": "咸粥",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.zjolcdn.com/pic/0/15/75/13/15751343_813477.jpg",
+          "image": "http://img2.zjolcdn.com/pic/0/15/75/13/15751343_813477.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "扁豆焖面"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的粥店",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "量给的还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "南瓜粥"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "粥挺好吃的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的粥",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
