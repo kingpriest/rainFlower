@@ -143,56 +143,55 @@ export default {
     };
   },
   created: function () {
-    axios.get('/api/seller', {
+    axios.get('http://47.95.250.189/api/seller', {
       responseType: 'json'
     }).then((res) => {
-      let response = res.data;
-      if (response.errno === ERR_OK) {
-        this.seller = response.data;
-        this.$nextTick(() => {
-          FastClick.attach(document.body);
-          this._initSc();
-          bus.$on('increment', target => {
-            this.$refs.shopcart.drop(target);
-          });
-          bus.$on('showSel', target => {
-            this.selectFood = target;
-          });
-          bus.$on('transw', (sw) => {
-            if (sw === true) {
-              this.tabScroll.enable();
-              this.appScroll.enable();
-            } else {
-              this.tabScroll.disable();
-              this.appScroll.disable();
-            }
-          });
-          bus.$on('transr', (sr) => {
-            if (sr === true) {
-              this.tabScroll.enable();
-              this.appScroll.enable();
-            } else {
-              this.tabScroll.disable();
-              this.appScroll.disable();
-            }
-          });
-          bus.$on('transs', (ss) => {
-            if (ss === true) {
-              this.tabScroll.enable();
-              this.appScroll.enable();
-            } else {
-              this.tabScroll.disable();
-              this.appScroll.disable();
-            }
-          });
-          bus.$on('shopBottom', (pos) => {
-            this.shopcartBottom = pos;
-          });
-          bus.$on('shopzIndex', (pos) => {
-            this.shopZIndex = pos;
-          });
+      console.log(res);
+      this.seller = res.data.data;
+      console.log(this.seller);
+      this.$nextTick(() => {
+        FastClick.attach(document.body);
+        this._initSc();
+        bus.$on('increment', target => {
+          this.$refs.shopcart.drop(target);
         });
-      }
+        bus.$on('showSel', target => {
+          this.selectFood = target;
+        });
+        bus.$on('transw', (sw) => {
+          if (sw === true) {
+            this.tabScroll.enable();
+            this.appScroll.enable();
+          } else {
+            this.tabScroll.disable();
+            this.appScroll.disable();
+          }
+        });
+        bus.$on('transr', (sr) => {
+          if (sr === true) {
+            this.tabScroll.enable();
+            this.appScroll.enable();
+          } else {
+            this.tabScroll.disable();
+            this.appScroll.disable();
+          }
+        });
+        bus.$on('transs', (ss) => {
+          if (ss === true) {
+            this.tabScroll.enable();
+            this.appScroll.enable();
+          } else {
+            this.tabScroll.disable();
+            this.appScroll.disable();
+          }
+        });
+        bus.$on('shopBottom', (pos) => {
+          this.shopcartBottom = pos;
+        });
+        bus.$on('shopzIndex', (pos) => {
+          this.shopZIndex = pos;
+        });
+      });
     });
   },
   watch: {

@@ -64,7 +64,7 @@ export default {
     };
   },
   created() {
-    axios.get('/api').then((res) => {
+    axios.get('http://47.95.250.189/api').then((res) => {
       let response = res.data;
       if (response.errno === ERR_OK) {
         this.goods = response.data.goods;

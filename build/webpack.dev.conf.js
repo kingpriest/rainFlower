@@ -16,10 +16,10 @@ const PORT = process.env.PORT && Number(process.env.PORT)
 const express = require('express');
 const app = express();
 const apiRoutes = express.Router();
-const appData = require('../data.json');
-var seller = appData.seller,
-  goods = appData.goods,
-  ratings = appData.ratings;
+// const appData = require('../data.json');
+// var seller = appData.seller,
+//   goods = appData.goods,
+//   ratings = appData.ratings;
 app.use('/api', apiRoutes);
 const devWebpackConfig = merge(baseWebpackConfig, {
   module: {
@@ -31,25 +31,25 @@ const devWebpackConfig = merge(baseWebpackConfig, {
   // these devServer options should be customized in /config/index.js
   devServer: {
     before(app) {
-      app.get('/api', (req, res) => {
+      app.get('http://47.95.250.189/api', (req, res) => {
         res.json({
           errno: 0,
           data: appData
         })
       });
-      app.get('/api/seller', (req, res) => {
+      app.get('http://47.95.250.189/api/seller', (req, res) => {
         res.json({
           errno: 0,
           data: seller
         })
       });
-      app.get('/api/goods', (req, res) => {
+      app.get('http://47.95.250.189/api/goods', (req, res) => {
         res.json({
           errno: 0,
           data: goods
         })
       });
-      app.get('/api/ratings', (req, res) => {
+      app.get('http://47.95.250.189/api/ratings', (req, res) => {
         res.json({
           errno: 0,
           data: ratings
@@ -72,7 +72,6 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       ? { warnings: false, errors: true }
       : false,
     publicPath: config.dev.assetsPublicPath,
-    proxy: config.dev.proxyTable,
     quiet: true, // necessary for FriendlyErrorsPlugin
     watchOptions: {
       poll: config.dev.poll,

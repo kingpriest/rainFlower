@@ -155,7 +155,7 @@ export default {
     }
   },
   created() {
-    axios.get('/api/ratings').then((res) => {
+    axios.get('http://47.95.250.189/api/ratings').then((res) => {
       let response = res.data;
       if (response.errno === ERR_OK) {
         this.ratings = response.data;
